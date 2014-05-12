@@ -1,0 +1,8 @@
+,8 h4
+c4 d6*
+e1 g1 h1 f1
+h5 d8
+qlc3
+c3 e7*
+kda8
+blr8
